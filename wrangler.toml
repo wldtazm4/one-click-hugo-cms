@@ -1,4 +1,4 @@
-name = "waffleland.cloud"
+name = "wafflelandcloudtest"
 type = "webpack"
 account_id = "28f86e0e0b5b17d48aaac5938815b3c4"
 workers_dev = true
