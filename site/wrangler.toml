@@ -1,0 +1,7 @@
+name = "waffleland.cloud"
+type = "webpack"
+account_id = "28f86e0e0b5b17d48aaac5938815b3c4"
+workers_dev = true
+route = "waffleland.cloud/*"
+zone_id = "6b39684bd0aa3128cc27b810950f217e"
+site = { bucket = "./static" }
